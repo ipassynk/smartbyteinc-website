@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Financial services",
+    "items": [
+      "Bank of Montreal",
+      "CIBC",
+      "RBC Capital Market",
+      "Equifax",
+      "TD Securities",
+      "Tangerine",
+      "Mackenzie Financial"
+    ]
+  },
+  {
+    "title": "Pension Plans",
+    "items": [
+      "Ontario Teachers' Pension Plan",
+      "CPP Investment Board",
+      "OMERS"
+    ]
+  },
+  {
+    "title": "High tech",
+    "items": ["IBM", "Little Room"]
+  },
+  {
+    "title": "Goverment",
+    "items": ["City of Toronto", "Ontario Telemedicine Network"]
+  },
+  {
+    "title": "E-commerce",
+    "items": [
+      "Nurun (Walmart)",
+      "Canadian Tire Corporation",
+      "Acklands",
+      "Blast Radius"
+    ]
+  },
+  {
+    "title": "Telecom",
+    "items": [
+      "Rogers",
+      "QuickPlay",
+      "Redline Communications",
+      "NetPulse Services"
+    ]
+  }
+]

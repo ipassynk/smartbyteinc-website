@@ -1,0 +1,25 @@
+{
+    "homepage": {
+        "show_call_box": true
+    },
+    "logo": {
+        "mobile": "/images/logo/logo-mobile.svg",
+        "desktop": "/images/logo/smartbyte.jpeg",
+        "desktop_height": "36px",
+        "alt": "SmartByte"
+    },
+    "homepage_meta_tags": {
+        "meta_description": "Software development services",
+        "meta_og_title": "SmartByte",
+        "meta_og_type": "website",
+        "meta_og_url": "https://www.smartbyteinc.com",
+        "meta_og_description": "Software development services",
+        "meta_twitter_card": "summary",
+        "meta_twitter_site": "@smartbyteinc",
+        "meta_twitter_creator": "@smartbyteinc"
+    },
+    "footer": {
+        "copyright_text": "SmartByte",
+        "copyright_link": "https://www.smartbyteinc.com"
+    }
+}

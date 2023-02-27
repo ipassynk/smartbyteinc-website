@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Home",
+        "url": "/",
+        "weight": 1
+    },
+    {
+        "name": "Services",
+        "url": "/services/",
+        "weight": 2
+    },
+    {
+        "name": "Team",
+        "url": "/team/",
+        "weight": 3
+    },
+    {
+        "name": "Clients",
+        "url": "/clients/",
+        "weight": 4
+    },
+    {
+        "name": "Careers",
+        "url": "/careers/",
+        "weight": 5
+    },
+    {
+        "name": "About",
+        "url": "/about/",
+        "weight": 6
+    },
+    {
+        "name": "Contact",
+        "url": "/contact/",
+        "weight": 7
+    }
+]
