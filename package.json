@@ -1,7 +1,7 @@
 {
   "name": "smartbyteinc-website",
   "version": "1.0.0",
-  "author": "Julia Passynkova <info@smartbyteinc.com>",
+  "author": "Julia Passynkova <admin@smartbyteinc.com>",
   "license": "MIT",
   "scripts": {
     "develop": "gatsby develop",
