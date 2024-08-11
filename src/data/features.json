@@ -5,6 +5,7 @@
       "Bank of Montreal",
       "CIBC",
       "RBC Capital Market",
+      "Scotiabank",
       "Equifax",
       "TD Securities",
       "Tangerine",
@@ -21,7 +22,7 @@
   },
   {
     "title": "High tech",
-    "items": ["IBM", "Little Room"]
+    "items": ["IBM", "Little Room", "Stackgenio"]
   },
   {
     "title": "Goverment",
